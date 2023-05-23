@@ -1,4 +1,4 @@
-# AMX-TMUL-Code-Samples-Intel
+# AMX-TMUL-Code-Samples Intel-Sapphire Rapids 
 Code sample showing Intel® Advanced Matrix Extensions (Intel® AMX) functionality on Intel® Xeon® Scalable processor Max Series and 4th gen Intel® Xeon® Scalable processors.
 
 Intel® AMX now introduces new extensions to the x86 Instruction Set Architecture (ISA) to work on matrices and which may accelerate matrix multiplication in AI workloads. It consists of two components:
