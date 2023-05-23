@@ -8,9 +8,6 @@ Intel® AMX now introduces new extensions to the x86 Instruction Set Architectur
 
 This code sample demonstrates testing the new instructions using intrinsic functions.
 
-A code walk-through for this sample can be found at:
-https://www.intel.com/content/www/us/en/developer/articles/code-sample/advanced-matrix-extensions-intrinsics-functions.html
-
 
 ## Purpose
 
